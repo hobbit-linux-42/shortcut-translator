@@ -1,6 +1,5 @@
 from googletrans import Translator, constants
 from subprocess import check_output
-from codecs import decode
 from tkinter import *
 
 def translator():
